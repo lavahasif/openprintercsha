@@ -1,0 +1,6 @@
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\bin\Debug\openprinter.exe
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\bin\Debug\openprinter.pdb
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\obj\Debug\openprinter.csproj.AssemblyReference.cache
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\obj\Debug\openprinter.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\obj\Debug\openprinter.exe
+C:\Users\Hasif\RiderProjects\openprinter\openprinter\obj\Debug\openprinter.pdb
